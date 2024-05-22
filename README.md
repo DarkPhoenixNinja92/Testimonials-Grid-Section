@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository URL](https://github.com/DarkPhoenixNinja92/Testimonials-Grid-Section)
-- Live Site URL: [GitHub Pages Live Site URL](https://darkphoenixninja92.github.io/Testimonials-Grid-Section)
+- Solution URL: [GitHub Repository URL](https://github.com/ShaunPour/Testimonials-Grid-Section)
+- Live Site URL: [GitHub Pages Live Site URL](https://ShaunPour.github.io/Testimonials-Grid-Section)
 
 ### Built with
 
